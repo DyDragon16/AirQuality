@@ -147,14 +147,3 @@ git commit -m 'Add some feature'
 ```bash
 git push origin feature/your-feature-name
 ```
-
-5. Tạo Pull Request
-
-## 📝 Giấy Phép
-
-Dự án được phát triển dưới giấy phép MIT. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
-
-## 📞 Liên Hệ
-
-- Email: your-email@example.com
-- Website: https://airquality.example.com 
